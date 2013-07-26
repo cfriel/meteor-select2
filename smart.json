@@ -1,0 +1,9 @@
+{
+  "name": "select2",
+  "description": "Meteor package wrapper for select2",
+  "homepage": "https://github.com/cfriel/meteor-select2",
+  "author": "Chris Friel",
+  "version": "1.0.0",
+  "git": "https://github.com/cfriel/meteor-select2.git",
+  "packages": {}
+}
